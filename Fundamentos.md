@@ -9,6 +9,7 @@ Fundamentos y definiciones de nuestras bases para llevar a cabo nuestros proyect
 Ante la escases de politicas publicas orientadas a la preservacion del medio ambiente por parte de la autoridad, nos enfocamos a desarrollar, transmitir y agrupar el conocimiento que nos permita mantener un desarrollo tecnologico y cultural sustentable con el medio ambiente que nos permita exportar estos conocimientos y tecnologias amigables con el medio ambiente.
 
 Para lo anterior nos enfocaremos en 4 areas fundamentales: 
+  
   #Agroindustria
   - Conservacion de la flora y fauna local.
   - Desarrollo de cultivos organicos endemicos.
