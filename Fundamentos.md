@@ -31,12 +31,13 @@ Para lo anterior nos enfocaremos en 4 areas fundamentales:
   - Desarrollo de domotica y estudios para arquitectura sustentable en el desarrollo de las ciudades y las industrias.
 
  
+ 
  ETAPA I. Reciclaje.
-    - Fase I. Reutiliza.
-    - Fase II. Reduce.
-    - Fase III. Recolecta.
-    - Fase IV. Recicla.
-    - Fase V. Reinventa.
+     - Fase I. Reutiliza.
+     - Fase II. Reduce.
+     - Fase III. Recolecta.
+     - Fase IV. Recicla.
+     - Fase V. Reinventa.
  
  
  
