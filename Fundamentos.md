@@ -4,7 +4,7 @@ Adigreenlabs.
 Fundamentos y definiciones de nuestras bases para llevar a cabo nuestros proyectos de tecnologias para el desarrollo sustentable del pais.
 
 
-##Vision
+#Vision
 
 Ante la escases de politicas publicas orientadas a la preservacion del medio ambiente por parte de la autoridad, nos enfocamos a desarrollar, transmitir y agrupar el conocimiento que nos permita mantener un desarrollo tecnologico y cultural sustentable con el medio ambiente que nos permita exportar estos conocimientos y tecnologias amigables con el medio ambiente.
 
@@ -31,7 +31,12 @@ Para lo anterior nos enfocaremos en 4 areas fundamentales:
   - Desarrollo de domotica y estudios para arquitectura sustentable en el desarrollo de las ciudades y las industrias.
 
  
- 
+ ETAPA I. Reciclaje.
+    - Fase I. Reutiliza.
+    - Fase II. Reduce.
+    - Fase III. Recolecta.
+    - Fase IV. Recicla.
+    - Fase V. Reinventa.
  
  
  
